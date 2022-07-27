@@ -35,7 +35,7 @@
                         <muleVersion>4.4.0</muleVersion>
                         <username>daniel_perez_syscons</username>
                         <password>Elpelucasabe24</password>
-                        <applicationName>mulesoft-cicd-sample2</applicationName>
+                        <applicationName>mulesoft-cicd-first</applicationName>
                         <environment>Sandbox</environment>
                         <workerType>MICRO</workerType>
                         <objectStoreV2>true</objectStoreV2>
